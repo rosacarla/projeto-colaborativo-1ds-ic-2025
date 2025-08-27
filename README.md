@@ -1,17 +1,25 @@
 ```markdown
+
+![Capa do Projeto](./assets/capa.png)
+
 # 💻 Projeto Colaborativo - Funções em JavaScript
 
 Este repositório é parte de uma atividade prática do curso técnico em Desenvolvimento de Sistemas. O objetivo é aplicar conceitos de **Git**, **GitHub**, **controle de versão** e **trabalho em equipe** usando o ambiente online **GitHub Codespaces**.
 
+Além disso, este projeto tem como objetivo geral a **prática de programação em JavaScript**, incentivando o desenvolvimento de lógica e o contato com ferramentas de software livre.
+
 ---
 
-## 📚 Objetivo da Atividade
+## 📚 Objetivos da Atividade
 
-Cada aluno do grupo deve:
-- Criar uma **branch** com seu nome.
-- Desenvolver uma **função em JavaScript** (ex: cálculo, validação, conversão).
-- Realizar **commits** e **pull requests**.
-- Participar da **revisão de código** e resolução de conflitos.
+### 🎯 Objetivo Geral
+- Praticar e consolidar conhecimentos em **JavaScript**, por meio da criação de funções e resolução de problemas simples.
+
+### 🧩 Objetivos Específicos
+- Estimular o contato com **software livre**, utilizando ferramentas e ambientes abertos.
+- Desenvolver autonomia na escrita e leitura de código.
+- Aprimorar habilidades de colaboração em projetos versionados com Git.
+- Compartilhar aprendizados por meio de um projeto público e colaborativo.
 
 ---
 
@@ -39,11 +47,11 @@ Cada aluno do grupo deve:
 ## 🧠 Sugestões de Funções
 
 Você pode escolher uma das ideias abaixo ou propor outra:
-- `calcular_media(notas: list) -> float`
-- `validar_email(email: str) -> bool`
-- `converter_temperatura(celsius: float) -> float`
-- `verificar_palindromo(palavra: str) -> bool`
-- `gerar_senha(tamanho: int) -> str`
+- `calcularMedia(notas: number[]) -> number`
+- `validarEmail(email: string) -> boolean`
+- `converterTemperatura(celsius: number) -> number`
+- `verificarPalindromo(palavra: string) -> boolean`
+- `gerarSenha(tamanho: number) -> string`
 
 ---
 
@@ -63,11 +71,12 @@ Você pode escolher uma das ideias abaixo ou propor outra:
 ```javascript
 // funcoes.js
 
-# Este arquivo será preenchido colaborativamente pelos alunos.
-# Cada aluno deve adicionar sua função abaixo, com comentários explicativos.
+// Este arquivo será preenchido colaborativamente pelos alunos.
+// Cada aluno deve adicionar sua função abaixo, com comentários explicativos.
 
-def exemplo():
-    print("Função de exemplo. Substitua por sua função!")
+function exemplo() {
+  console.log("Função de exemplo. Substitua por sua função!");
+}
 ```
 
 ---
@@ -90,5 +99,3 @@ Ao final da atividade, o grupo deve:
 
 ---
 ```
-
----
