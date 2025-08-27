@@ -1,0 +1,1 @@
+# projeto-colaborativo-1ds-ic-2025
