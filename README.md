@@ -1,5 +1,5 @@
 ```markdown
-# 💻 Projeto Colaborativo - Funções em Python
+# 💻 Projeto Colaborativo - Funções em JavaScript
 
 Este repositório é parte de uma atividade prática do curso técnico em Desenvolvimento de Sistemas. O objetivo é aplicar conceitos de **Git**, **GitHub**, **controle de versão** e **trabalho em equipe** usando o ambiente online **GitHub Codespaces**.
 
@@ -9,7 +9,7 @@ Este repositório é parte de uma atividade prática do curso técnico em Desenv
 
 Cada aluno do grupo deve:
 - Criar uma **branch** com seu nome.
-- Desenvolver uma **função em Python** (ex: cálculo, validação, conversão).
+- Desenvolver uma **função em JavaScript** (ex: cálculo, validação, conversão).
 - Realizar **commits** e **pull requests**.
 - Participar da **revisão de código** e resolução de conflitos.
 
@@ -24,10 +24,10 @@ Cada aluno do grupo deve:
    ```bash
    git checkout -b seu-nome
    ```
-4. Adicione sua função ao arquivo `funcoes.py`.
+4. Adicione sua função ao arquivo `funcoes.js`.
 5. Faça commit e push:
    ```bash
-   git add funcoes.py
+   git add funcoes.js
    git commit -m "Adiciona função de validação"
    git push origin sua-branch
    ```
@@ -51,17 +51,17 @@ Você pode escolher uma das ideias abaixo ou propor outra:
 
 ```
 📦 projeto-colaborativo
- ┣ 📜 funcoes.py
+ ┣ 📜 funcoes.js
  ┣ 📜 README.md
  ┗ 📜 .gitignore
 ```
 
 ---
 
-## 📄 Arquivo Base: funcoes.py
+## 📄 Arquivo Base: funcoes.js
 
-```python
-# funcoes.py
+```javascript
+// funcoes.js
 
 # Este arquivo será preenchido colaborativamente pelos alunos.
 # Cada aluno deve adicionar sua função abaixo, com comentários explicativos.
@@ -84,7 +84,7 @@ def exemplo():
 ## 🏁 Finalização
 
 Ao final da atividade, o grupo deve:
-- Ter todas as funções integradas no arquivo `funcoes.py`.
+- Ter todas as funções integradas no arquivo `funcoes.js`.
 - Apresentar o projeto para a turma.
 - Comentar sobre os desafios e aprendizados da colaboração.
 
@@ -92,5 +92,3 @@ Ao final da atividade, o grupo deve:
 ```
 
 ---
-
-Se quiser, posso te ajudar a criar esse repositório no GitHub passo a passo. Você quer que eu te guie por isso agora?
