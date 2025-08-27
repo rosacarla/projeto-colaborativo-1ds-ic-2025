@@ -1,4 +1,4 @@
-![Capa do Projeto](.assets/capa-Copilot_20250827_154926.png)
+![Capa do Projeto](https://github.com/rosacarla/projeto-colaborativo-1ds-ic-2025/blob/main/assets/capa-Copilot_20250827_154926.png)
 
 ```markdown
 
