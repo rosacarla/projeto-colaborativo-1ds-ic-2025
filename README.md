@@ -1,11 +1,10 @@
 ![Capa do Projeto](https://github.com/rosacarla/projeto-colaborativo-1ds-ic-2025/blob/main/assets/capa-Copilot_20250827_154926.png)
 
 ```markdown
-
 # 💻 Projeto Colaborativo - Funções em JavaScript
 
 Este repositório é parte de uma atividade prática do curso técnico em Desenvolvimento de Sistemas.
-O objetivo é aplicar conceitos de **Git**, **GitHub**, **controle de versão** e **trabalho em equipe**
+O objetivo é aplicar conceitos de **Git**, *GitHub*, **controle de versão** e **trabalho em equipe**
 usando o ambiente online **GitHub Codespaces**.
 
 Além disso, este projeto tem como objetivo geral a **prática de programação em JavaScript**, incentivando
