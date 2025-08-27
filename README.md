@@ -1,10 +1,9 @@
 ![Capa do Projeto](https://github.com/rosacarla/projeto-colaborativo-1ds-ic-2025/blob/main/assets/capa-Copilot_20250827_154926.png)
 
-```markdown
 # 💻 Projeto Colaborativo - Funções em JavaScript
 
 Este repositório é parte de uma atividade prática do curso técnico em Desenvolvimento de Sistemas.
-O objetivo é aplicar conceitos de **Git**, *GitHub*, **controle de versão** e **trabalho em equipe**
+O objetivo é aplicar conceitos de **Git**, **GitHub**, **controle de versão** e **trabalho em equipe**
 usando o ambiente online **GitHub Codespaces**.
 
 Além disso, este projeto tem como objetivo geral a **prática de programação em JavaScript**, incentivando
@@ -31,18 +30,24 @@ o desenvolvimento de lógica e o contato com ferramentas de software livre.
 2. **Abra um Codespace** no seu repositório forkado:
    - Clique em `<> Code` > `Codespaces` > `Create codespace on main`.
 3. Crie uma **branch** com seu nome:
+   
    ```bash
+
    git checkout -b seu-nome
+   
    ```
-4. Adicione sua função ao arquivo `funcoes.js`.
-5. Faça commit e push:
+5. Adicione sua função ao arquivo `funcoes.js`.
+6. Faça commit e push:
+   
    ```bash
+
    git add funcoes.js
    git commit -m "Adiciona função de validação"
    git push origin sua-branch
+
    ```
-6. Crie um **Pull Request** para a branch `main`.
-7. Revise o código dos colegas e participe do merge.
+8. Crie um **Pull Request** para a branch `main`.
+9. Revise o código dos colegas e participe do merge.
 
 ---
 
@@ -60,7 +65,7 @@ Você pode escolher uma das ideias abaixo ou propor outra:
 ## 📁 Estrutura do Projeto
 
 ```
-📦 projeto-colaborativo
+📦 projeto-colaborativo-1ds-ic-2025
  ┣ 📜 funcoes.js
  ┣ 📜 README.md
  ┗ 📜 .gitignore
@@ -100,4 +105,3 @@ Ao final da atividade, o grupo deve:
 - Comentar sobre os desafios e aprendizados da colaboração.
 
 ---
-```
