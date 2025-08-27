@@ -4,16 +4,19 @@
 
 # 💻 Projeto Colaborativo - Funções em JavaScript
 
-Este repositório é parte de uma atividade prática do curso técnico em Desenvolvimento de Sistemas. O objetivo é aplicar conceitos de **Git**, **GitHub**, **controle de versão** e **trabalho em equipe** usando o ambiente online **GitHub Codespaces**.
+Este repositório é parte de uma atividade prática do curso técnico em Desenvolvimento de Sistemas.
+O objetivo é aplicar conceitos de **Git**, **GitHub**, **controle de versão** e **trabalho em equipe**
+usando o ambiente online **GitHub Codespaces**.
 
-Além disso, este projeto tem como objetivo geral a **prática de programação em JavaScript**, incentivando o desenvolvimento de lógica e o contato com ferramentas de software livre.
+Além disso, este projeto tem como objetivo geral a **prática de programação em JavaScript**, incentivando
+o desenvolvimento de lógica e o contato com ferramentas de software livre.
 
 ---
 
 ## 📚 Objetivos da Atividade
 
 ### 🎯 Objetivo Geral
-- Praticar e consolidar conhecimentos em **JavaScript**, por meio da criação de funções e resolução de problemas simples.
+- Praticar e consolidar conhecimentos em **JavaScript**, com a criação de funções e resolução de problemas simples.
 
 ### 🧩 Objetivos Específicos
 - Estimular o contato com **software livre**, utilizando ferramentas e ambientes abertos.
