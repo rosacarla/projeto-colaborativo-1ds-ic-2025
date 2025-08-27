@@ -1,6 +1,6 @@
-```markdown
+![Capa do Projeto](.assets/capa-Copilot_20250827_154926.png)
 
-![Capa do Projeto](./assets/capa.png)
+```markdown
 
 # 💻 Projeto Colaborativo - Funções em JavaScript
 
