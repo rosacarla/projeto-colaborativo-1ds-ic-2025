@@ -66,11 +66,12 @@ Você pode escolher uma das ideias abaixo ou propor outra:
 
 ```
 📦 projeto-colaborativo-1ds-ic-2025
+ ┣ 📂 assets
  ┣ 📜 funcoes.js
  ┣ 📜 README.md
+ ┣ 📜 LICENSE
  ┗ 📜 .gitignore
 ```
-
 ---
 
 ## 📄 Arquivo Base: funcoes.js
