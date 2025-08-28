@@ -2,7 +2,7 @@
 
 # 💻 Projeto Colaborativo - Funções em JavaScript
 
-Este repositório é parte de uma atividade prática do curso técnico em Desenvolvimento de Sistemas.
+Este repositório é parte de uma atividade prática do curso técnico em Desenvolvimento de Sistemas.  
 O objetivo principal é o contato com ferramentas de **SOFTWARE LIVRE**, a partir de conteúdo abordado na disciplina Introdução à Computação.  
 Além disso, este projeto proporciona a prática de **programação em JavaScript**; incentiva o raciocínio lógico; aplica conceitos de **Git**, **GitHub**, **controle de versão** e **trabalho em equipe**, usando o ambiente online **GitHub Codespaces**.
 
@@ -22,12 +22,17 @@ Além disso, este projeto proporciona a prática de **programação em JavaScrip
 ---
 
 ## 🚀 Como começar
-- Você pode escolher uma das ideias abaixo ou propor outra para desenvolver um código compacto da sua função em JS.  
+- Você pode escolher uma das ideias abaixo ou propor outra para desenvolver um código compacto da sua função em JS.
+ 
 A) `calcularMedia(notas: number[]) -> number`
-B) `validarEmail(email: string) -> boolean`
-C) `converterTemperatura(celsius: number) -> number`
-D) `verificarPalindromo(palavra: string) -> boolean`
-- `gerarSenha(tamanho: number) -> string`
+
+B) `validarEmail(email: string) -> boolean`  
+
+C) `converterTemperatura(celsius: number) -> number`  
+
+D) `verificarPalindromo(palavra: string) -> boolean`  
+
+E) `gerarSenha(tamanho: number) -> string`
 
 ---
 
@@ -42,7 +47,11 @@ D) `verificarPalindromo(palavra: string) -> boolean`
 function exemplo() {
   console.log("Função de exemplo. Substitua por sua função!");
 }
-```  
+```
+
+---  
+
+## ♻️ Como colaborar
 
 1. **Faça um fork** deste repositório para sua conta GitHub.
 2. **Abra um Codespace** no seu repositório forkado:
@@ -69,10 +78,6 @@ function exemplo() {
 
 ---
 
-
-
----
-
 ## 📁 Estrutura do Projeto
 
 ```
@@ -83,9 +88,6 @@ function exemplo() {
  ┣ 📜 LICENSE
  ┗ 📜 .gitignore
 ```
----
-
-
 
 ---
 
