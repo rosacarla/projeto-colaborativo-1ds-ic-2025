@@ -24,15 +24,15 @@ Além disso, este projeto proporciona a prática de **programação em JavaScrip
 ## 🚀 Como começar
 - Você pode escolher uma das ideias abaixo ou propor outra para desenvolver um código compacto da sua função em JS.
  
-➡️ `calcularMedia(notas: number[]) -> number`
+  - `calcularMedia(notas: number[]) -> number`
 
-➡️ `validarEmail(email: string) -> boolean`  
+  - `validarEmail(email: string) -> boolean`  
 
-➡️ `converterTemperatura(celsius: number) -> number`  
+  - `converterTemperatura(celsius: number) -> number`  
 
-➡️ `verificarPalindromo(palavra: string) -> boolean`  
+  - `verificarPalindromo(palavra: string) -> boolean`  
 
-➡️ `gerarSenha(tamanho: number) -> string`
+  - `gerarSenha(tamanho: number) -> string`
 
 ---
 
