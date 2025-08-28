@@ -3,28 +3,46 @@
 # 💻 Projeto Colaborativo - Funções em JavaScript
 
 Este repositório é parte de uma atividade prática do curso técnico em Desenvolvimento de Sistemas.
-O objetivo é aplicar conceitos de **Git**, **GitHub**, **controle de versão** e **trabalho em equipe**
-usando o ambiente online **GitHub Codespaces**.
-
-Além disso, este projeto tem como objetivo geral a **prática de programação em JavaScript**, incentivando
-o desenvolvimento de lógica e o contato com ferramentas de software livre.
+O objetivo principal é o contato com ferramentas de **SOFTWARE LIVRE**, a partir de conteúdo abordado na disciplina Introdução à Computação.  
+Além disso, este projeto proporciona a prática de **programação em JavaScript**; incentiva o raciocínio lógico; aplica conceitos de **Git**, **GitHub**, **controle de versão** e **trabalho em equipe**, usando o ambiente online **GitHub Codespaces**.
 
 ---
 
 ## 📚 Objetivos da Atividade
 
 ### 🎯 Objetivo Geral
-- Praticar e consolidar conhecimentos em **JavaScript**, com a criação de funções e resolução de problemas simples.
-
+- Manter contato com **software livre**, através do uso de ferramentas e ambientes abertos (**Git, JavaScript, Codespaces**).
+  
 ### 🧩 Objetivos Específicos
-- Estimular o contato com **software livre**, utilizando ferramentas e ambientes abertos.
+- Praticar e consolidar conhecimentos em **JavaScript**, com a criação de funções e resolução de problemas simples.
 - Desenvolver autonomia na escrita e leitura de código.
-- Aprimorar habilidades de colaboração em projetos versionados com Git.
-- Compartilhar aprendizados por meio de um projeto público e colaborativo.
+- Aprimorar habilidades de colaboração em projetos versionados com **Git**.
+- Compartilhar aprendizados por meio de um projeto público e colaborativo no **GitHub**.
 
 ---
 
 ## 🚀 Como começar
+- Você pode escolher uma das ideias abaixo ou propor outra para desenvolver um código compacto da sua função em JS.  
+A) `calcularMedia(notas: number[]) -> number`
+B) `validarEmail(email: string) -> boolean`
+C) `converterTemperatura(celsius: number) -> number`
+D) `verificarPalindromo(palavra: string) -> boolean`
+- `gerarSenha(tamanho: number) -> string`
+
+---
+
+## 📄 Arquivo Base: funcoes.js
+
+```javascript
+// funcoes.js
+
+// Este arquivo será preenchido colaborativamente pelos alunos.
+// Cada aluno deve adicionar sua função abaixo, com comentários explicativos.
+
+function exemplo() {
+  console.log("Função de exemplo. Substitua por sua função!");
+}
+```  
 
 1. **Faça um fork** deste repositório para sua conta GitHub.
 2. **Abra um Codespace** no seu repositório forkado:
@@ -36,29 +54,22 @@ o desenvolvimento de lógica e o contato com ferramentas de software livre.
    git checkout -b seu-nome
    
    ```
-5. Adicione sua função ao arquivo `funcoes.js`.
-6. Faça commit e push:
+5. Adicione o código da sua função ao arquivo `funcoes.js`, armazenado neste repositório.
+6. Faça **commit** e **push**:
    
    ```bash
 
    git add funcoes.js
-   git commit -m "Adiciona função de validação"
+   git commit -m "Adiciona função de ..."
    git push origin sua-branch
 
    ```
 8. Crie um **Pull Request** para a branch `main`.
-9. Revise o código dos colegas e participe do merge.
+9. Revise o código dos colegas e participe do **merge**.
 
 ---
 
-## 🧠 Sugestões de Funções
 
-Você pode escolher uma das ideias abaixo ou propor outra:
-- `calcularMedia(notas: number[]) -> number`
-- `validarEmail(email: string) -> boolean`
-- `converterTemperatura(celsius: number) -> number`
-- `verificarPalindromo(palavra: string) -> boolean`
-- `gerarSenha(tamanho: number) -> string`
 
 ---
 
@@ -74,18 +85,7 @@ Você pode escolher uma das ideias abaixo ou propor outra:
 ```
 ---
 
-## 📄 Arquivo Base: funcoes.js
 
-```javascript
-// funcoes.js
-
-// Este arquivo será preenchido colaborativamente pelos alunos.
-// Cada aluno deve adicionar sua função abaixo, com comentários explicativos.
-
-function exemplo() {
-  console.log("Função de exemplo. Substitua por sua função!");
-}
-```
 
 ---
 
